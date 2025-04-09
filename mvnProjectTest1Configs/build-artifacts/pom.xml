@@ -4,11 +4,11 @@
   <parent>
     <groupId>com.example</groupId>
     <artifactId>mvnProjectTest1Configs</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
   </parent>
   <groupId>com.example</groupId>
   <artifactId>mvnProjectTest1Configs_module</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>mvnProjectTest1Configs_module</name>
   <description>mvnProjectTest1Configs_module</description>
