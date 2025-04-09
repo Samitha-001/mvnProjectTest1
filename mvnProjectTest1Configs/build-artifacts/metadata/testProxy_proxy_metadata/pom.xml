@@ -4,12 +4,12 @@
   <parent>
     <groupId>com.example</groupId>
     <artifactId>mvnProjectTest1Configs_module</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
     <relativePath>../../pom.xml</relativePath>
   </parent>
   <groupId>com.example.metadata</groupId>
   <artifactId>testProxy_proxy_metadata</artifactId>
-  <version>1.0.1-SNAPSHOT</version>
+  <version>1.0.1</version>
   <packaging>synapse/metadata</packaging>
   <name>testProxy_proxy_metadata</name>
   <description>testProxy_proxy_metadata</description>
